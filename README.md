@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamsul910
 - 👀 I’m interested in Digital Analytics & Tracking
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & SQL
 - 📫 Reach me on https://www.linkedin.com/in/sduha/ 
 
 <!---
